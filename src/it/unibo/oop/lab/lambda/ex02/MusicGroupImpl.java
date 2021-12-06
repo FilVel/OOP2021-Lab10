@@ -1,6 +1,5 @@
 package it.unibo.oop.lab.lambda.ex02;
 
-import java.util.Comparator;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
